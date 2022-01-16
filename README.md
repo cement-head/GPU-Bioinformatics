@@ -5,6 +5,6 @@ This is a GitHub Repository of known GPU based bioinformatics software for biolo
 
 Please see the WIKI for the list.
 
-If you'd like your software added, please eMAIL me at <andorjkiss@gmail.com> 
+If you'd like your software added, please eMAIL me via GitHub.
 
 Thanks
